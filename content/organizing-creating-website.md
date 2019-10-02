@@ -6,31 +6,31 @@ Congratulations on preparing to host a Kubernetes Community Days in your city! T
 
 If you run into any issues when going through the process outlined in this document, please suggest changes or problems. This is a working document and will be updated as needed. 
 
-# Create a GitHub Account
-The first thing you need to do is create a GitHub account if you don't already have one. 
+## Create a GitHub Account
 
-* Create your GitHub account here: https://github.com/ 
- * Enter your user name, email, password, and hit submit
+The first thing you need to do is create a [GitHub](https://github.com) account if you don't already have one. 
 
-![Screenshot](/admin/img/howto/github.png)
+* Create your GitHub account at https://github.com.
+  * Enter your user name, email, password, and hit submit
 
- * You will receive an email to activate your account
- * Log in and get started!
+        ![Screenshot](/admin/img/howto/github.png)
 
-# Interested in Organizing a Kubernetes Community Days?
+  * You will receive an email to activate your account
+  * Log in and get started!
+
+## Interested in Organizing a Kubernetes Community Days?
 
 * Go to https://github.com/cncf/kubernetes-community-days.
-* If you are looking to find other organizers in your area, go to https://github.com/cncf/kubernetes-community-days/projects/2 and see if there are any events in your area.  If there is an event in progress or a past event, contact that events’ organizers to find out how you can get involved by adding a comment to their issue.
+* If you are looking to find other organizers in your area, go to https://github.com/cncf/kubernetes-community-days/projects/2 and see if there are any events in your area. If there is an event in progress or a past event, contact that events’ organizers to find out how you can get involved by adding a comment to their issue.
 
-* If there are not any events in your area, open an issue:
+* If there are no events in your area, open an issue:
   * Go to https://github.com/cncf/kubernetes-community-days/issues and click “New Issue”
-/create issue.png
 
-![Screenshot](/admin/img/howto/gettingstarted.png)
+        ![Screenshot](/admin/img/howto/createissue.png)
 
 * Click “Get started” on the Organizing Event issue
 
-![Screenshot](/admin/img/howto/createissue.png)
+    ![Screenshot](/admin/img/howto/createissue.png)
 
 * In the “title” space enter “KCD <your city, your country>, Date (if you have one)”
 * If you are just getting started fill in as much detail as possible about your event in the “write” space
@@ -216,7 +216,7 @@ Now you are ready to start creating your site!
   * Event location
   * Event URL
   * Event twitter
-  
+
 ![Screenshot](/admin/img/howto/index2.png)
 
  * Update the Sponsor information
@@ -242,7 +242,7 @@ Now you are ready to start creating your site!
   * Image location (in the static folder)
   * Twitter
   * Homepage if they have one
-  
+
 ![Screenshot](/admin/img/howto/index5.png)
 
  * Add your organizers email address
@@ -449,7 +449,7 @@ Resolving Conflicts in a Pull Request
 
 ![Screenshot](/admin/img/howto/pr13.png)
 
-* Click on  the red circle to see the error
+* Click on the red circle to see the error
 * Open a new tab correct the error 
 * Then refresh your pull request
 * Once the conflicts have been resolved following the process above pull requests
